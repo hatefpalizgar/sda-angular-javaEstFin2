@@ -1,0 +1,8 @@
+// Create a component called dog
+// create an array variable named doggos in your app.component.ts file and fill it with similar data to: {name: 'Alfred'}
+// Display the name of the doggies in the template using *ngFor directive
+// if there are less than 2 objects in your doggos, display the line: "Who let the dogs out?" on the screen using *ngIf
+// Add a button to the page that triggers a simple alert(use console.log()) and print out some woofs!
+// If you are up for the challenge, then add another button that would add a dog to your current doggos
+
+====================================
